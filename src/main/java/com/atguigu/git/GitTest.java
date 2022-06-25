@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("hello git7---hot-fix");
         System.out.println("hello git7---master");
         System.out.println("hello git8---hot-fix--conflict");
+        System.out.println("test-pull");
     }
 }
